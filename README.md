@@ -5,6 +5,7 @@
 - 📫 How to reach me:
 - Mastodon: https://mastodon.social/@Capslock_huh
 - Twitter: https://twitter.com/Capslockhuh
+- BlueSky: https://bsky.app/profile/capslockhuh.bsky.social
 - Stack Overflow: https://stackoverflow.com/users/18236861/capslock
 - Reddit: https://www.reddit.com/user/xxNoobKiller2000xx
 - But most of my stuff is here at my GitHub profile
